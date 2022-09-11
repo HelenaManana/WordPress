@@ -1,0 +1,1 @@
+Bc<?php exit; ?>a:1:{s:7:"content";s:270:"{"common.install":1660230503,"common.install_version":"2.2.4","license.status":"no_key","license.next_check":1661709326,"license.terms":"","license.community_terms":"accept","common.show_note.plugins_updated":true,"common.show_note.plugins_updated.timestamp":1660514149}";}
