@@ -1,0 +1,60 @@
+2022-09-09 17:27:39
+<b>ewww_image_optimizer_init()</b>
+checking active plugins
+<b>EIO_Base::content_url()</b>
+upload_url: https://jmanjencic.wppsbootcamp.com/portfolio/wp-content/uploads/
+<b>EIO_Base::__construct()</b>
+plugin (resource) content_url: https://jmanjencic.wppsbootcamp.com/portfolio/wp-content/ewww/
+plugin (resource) content_dir: /home/jmanjencic/public_html/portfolio/wp-content/ewww/
+home url: https://jmanjencic.wppsbootcamp.com/portfolio/
+relative home url: //jmanjencic.wppsbootcamp.com/portfolio/
+home domain: jmanjencic.wppsbootcamp.com
+site/upload url: https://jmanjencic.wppsbootcamp.com/portfolio
+site/upload domain: jmanjencic.wppsbootcamp.com
+<b>EIO_Lazy_Load::__construct()</b>
+request uri is /portfolio/wp-admin/plugins.php?action=deactivate&plugin=ewww-image-optimizer%2Fewww-image-optimizer.php&plugin_status=all&paged=1&s&_wpnonce=6ef8994ba6
+is_admin
+<b>ewww_image_optimizer_admin_init()</b>
+<b>EIO_Base::content_url()</b>
+upload_url: https://jmanjencic.wppsbootcamp.com/portfolio/wp-content/uploads/
+<b>EIO_Base::__construct()</b>
+plugin (resource) content_url: https://jmanjencic.wppsbootcamp.com/portfolio/wp-content/ewww/
+plugin (resource) content_dir: /home/jmanjencic/public_html/portfolio/wp-content/ewww/
+home url: https://jmanjencic.wppsbootcamp.com/portfolio/
+relative home url: //jmanjencic.wppsbootcamp.com/portfolio/
+home domain: jmanjencic.wppsbootcamp.com
+site/upload url: https://jmanjencic.wppsbootcamp.com/portfolio
+site/upload domain: jmanjencic.wppsbootcamp.com
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+checkin already scheduled: 1662749725
+<b>ewww_image_optimizer_tool_init()</b>
+<b>ewww_image_optimizer_install_tools()</b>
+Checking/Installing tools in /home/jmanjencic/public_html/portfolio/wp-content/ewww/
+wp-content/ewww permissions: 0755
+<b>ewww_image_optimizer_install_paths()</b>
+CPU architecture: x86_64
+generated paths:
+/home/jmanjencic/public_html/portfolio/wp-content/plugins/ewww-image-optimizer/binaries/jpegtran-linux
+/home/jmanjencic/public_html/portfolio/wp-content/plugins/ewww-image-optimizer/binaries/optipng-linux
+/home/jmanjencic/public_html/portfolio/wp-content/plugins/ewww-image-optimizer/binaries/gifsicle-linux
+/home/jmanjencic/public_html/portfolio/wp-content/plugins/ewww-image-optimizer/binaries/pngquant-linux
+/home/jmanjencic/public_html/portfolio/wp-content/plugins/ewww-image-optimizer/binaries/cwebp-linux
+/home/jmanjencic/public_html/portfolio/wp-content/ewww/jpegtran
+/home/jmanjencic/public_html/portfolio/wp-content/ewww/optipng
+/home/jmanjencic/public_html/portfolio/wp-content/ewww/gifsicle
+/home/jmanjencic/public_html/portfolio/wp-content/ewww/pngquant
+/home/jmanjencic/public_html/portfolio/wp-content/ewww/cwebp
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: webp
+Linux/UNIX style OS, checking permissions
+<b>ewww_image_optimizer_check_permissions()</b>
+permissions for /home/jmanjencic/public_html/portfolio/wp-content/ewww/jpegtran: 0755
+permissions ok
+<b>ewww_image_optimizer_check_permissions()</b>
+permissions for /home/jmanjencic/public_html/portfolio/wp-content/ewww/cwebp: 0755
+permissions ok
